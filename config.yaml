@@ -1,0 +1,4 @@
+repoPath: "./young-ya-first"       # 本地仓库路径
+remoteRepo: "https://gitee.com/Young_Ya/young-ya-first.git" # 远程仓库地址
+interval: 3000               # 检查间隔时间（单位：毫秒）
+branch: "master"                # 拉取的分支
